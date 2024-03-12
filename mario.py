@@ -12,13 +12,6 @@ all_star = """Hier steht das erste Argv : """ + Test1 + """
 Hier steht das zweite Argv : """ + Test2 + """
 Hier steht das dritte Argv : """ + Test3
 
-lines = [
-    "Father time, I'm running late",
-    "I'm winding down, I'm growing tired",
-    "Seconds drift into the night",
-    "The clock just ticks till my time expires",
-]
-
 if __name__ == '__main__':
     hand = Hand()
 
