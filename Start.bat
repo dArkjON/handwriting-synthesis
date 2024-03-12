@@ -1,0 +1,1 @@
+python mario.py aaaaa bbbbbb cccccc
